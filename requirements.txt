@@ -1,0 +1,5 @@
+Django==4.2.7
+djangorestframework==3.14.0
+python-decouple==3.8
+Faker==20.1.0
+psycopg[binary]>=3.1.8
