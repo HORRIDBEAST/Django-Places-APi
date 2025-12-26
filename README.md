@@ -2,6 +2,8 @@
 
 A Django REST API for reviewing places (restaurants, shops, doctors, etc.) with user authentication, place management, and search functionality.
 
+Video Walkthough - https://drive.google.com/file/d/1_lYXiHzC_2kW8Yp558VhqkH7rNWXTDq4/view?usp=sharing
+
 ## Features
 
 - User registration and authentication with phone numbers
